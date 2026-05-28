@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Ashujeet-hembrom/Ashujeet-hembrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ashujeet, a MSc. Statistic student
 
-Here are some ideas to get you started:
+I enjoy working with data and learning new technologies.  
+Currently exploring Python, data analytics, and reverse engineering.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like building small projects, solving problems, and improving my skills step by step.
+
+## 🌱 Currently Learning
+
+- Python
+- Data Visualization
+- Power BI
+- R Programming
+
+## 🛠 Skills
+
+- Python
+- MySQL
+- Excel
+- Power BI
+- Statistical Analysis
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/Ashujeet-hembrom  
+Linkedin: https://www.linkedin.com/in/ashujeet-hembrom
