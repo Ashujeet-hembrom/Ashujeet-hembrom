@@ -3,7 +3,7 @@
 I'm Ashujeet, a MSc. Statistic student
 
 I enjoy working with data and learning new technologies.  
-Currently exploring Python, data analytics, and reverse engineering.  
+Currently exploring Python, Data analytics, and Machine Learning to understand how data helps in solving real-world problems and finding meaningful insights.  
 
 I like building small projects, solving problems, and improving my skills step by step.
 
